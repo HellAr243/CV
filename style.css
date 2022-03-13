@@ -1,1 +1,35 @@
-cvxzdvxdzvzasdad
+body {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.left {
+    width: 33%;
+}
+.left-background-top {
+    height: 50px;
+    background-color: #376193;
+}
+h2 {
+    color: #376193;
+}
+.left-name {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 250px;
+    border-radius: 250px;
+    height: 250px;
+}
+.left-avatar {
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    border-bottom: 5px solid blue;
+    width: 75%;
+    margin-left: 50px;
+}
